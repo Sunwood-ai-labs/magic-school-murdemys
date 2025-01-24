@@ -1,4 +1,8 @@
-# 🧙‍♂️ 魔法学校殺人事件
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/4be3525d-14db-4ba2-a642-4d543286ee16" alt="ヘッダー画像" style="max-width: 500px;">
+  <h1>🧙‍♂️ 魔法学校殺人事件</h1>
+</div>
 
 このフォルダには、魔法学校を舞台にしたマーダーミステリーをプレイするためのファイル一式が含まれています。
 
